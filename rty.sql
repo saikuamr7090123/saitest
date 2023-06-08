@@ -1,4 +1,3 @@
-
 select *
 from db
 ;
